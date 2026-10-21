@@ -1,5 +1,5 @@
 <?php
 //Redirect Browser
-header("Location: may-a.com.es/Trst/index.php");
+header("Location: https://may-a.com.es/Trst/index.php");
 exit();
 ?>
